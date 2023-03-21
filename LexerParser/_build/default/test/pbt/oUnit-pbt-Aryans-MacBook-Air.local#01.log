@@ -1,0 +1,12 @@
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: Start test pbt:0:test_simple_def.
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: law test_simple_def: 1000 relevant cases (1000 total)
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: Test pbt:0:test_simple_def is successful.
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: End test pbt:0:test_simple_def.
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: Start test pbt:2:test_sum_small_ints.
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: law test_sum_small_ints: 1000 relevant cases (1000 total)
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: Test pbt:2:test_sum_small_ints is successful.
+2022-11-28T04:28:01+00:00 Aryans-MacBook-Air.local#01 I: End test pbt:2:test_sum_small_ints.
