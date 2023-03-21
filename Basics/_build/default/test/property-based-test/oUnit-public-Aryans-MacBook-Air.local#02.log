@@ -1,0 +1,36 @@
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_rev_twice: 25 relevant cases (25 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:1:test_rev_twice is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_is_odd_evens: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:3:test_is_odd_evens is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_is_odd_multiplicativity: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:5:test_is_odd_multiplicativity is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_fib_inc: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:7:test_fib_inc is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_pow_pos: 30 relevant cases (30 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:9:test_pow_pos is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_rev_lst: 30 relevant cases (30 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:11:test_rev_lst is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:11:test_rev_lst.

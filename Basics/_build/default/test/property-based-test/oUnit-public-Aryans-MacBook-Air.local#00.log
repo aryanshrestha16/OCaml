@@ -1,0 +1,206 @@
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Runner: processes
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Chooser: simple
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration suite_name = "public"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration cache_filename = "/Users/aryanshrestha/Documents/fall2022/project2a/_build/default/test/property-based-test/oUnit-$(suite_name).cache"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration run_gc_full_major = "true"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration seed = "-1"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration display = "true"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration results_style_1_X = "false"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration testdata_dir = "none"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration health_check_interval = "1."
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration verbose = "false"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration chooser = "simple"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration output_html_dir = "none"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration processes_kill_period = "5."
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration runner = "processes"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration shards = "2"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration processes_grace_period = "5."
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration qcheck_verbose = "true"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration log_encoding = "utf-8"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration output_junit_file = "none"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration ci = "false"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration qcheck_long = "false"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Configuration output_file = "/Users/aryanshrestha/Documents/fall2022/project2a/_build/default/test/property-based-test/oUnit-$(suite_name)-$(shard_id).log"
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Using 2 workers maximum.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Starting worker number Aryans-MacBook-Air.local#01.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Worker Aryans-MacBook-Air.local#01 started.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Starting worker number Aryans-MacBook-Air.local#02.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Worker Aryans-MacBook-Air.local#02 started.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: law test_rev_tup: 25 relevant cases (25 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_rev_twice: 25 relevant cases (25 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:0:test_rev_tup is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:1:test_rev_twice, public:0:test_rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:2:test_is_odd_odds, public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:2:test_is_odd_odds, public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: law test_is_odd_odds: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:2:test_is_odd_odds, public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:1:test_rev_twice is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:2:test_is_odd_odds, public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:2:test_is_odd_odds, public:1:test_rev_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:3:test_is_odd_evens, public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:3:test_is_odd_evens, public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_is_odd_evens: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:3:test_is_odd_evens, public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:2:test_is_odd_odds is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:3:test_is_odd_evens, public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:3:test_is_odd_evens, public:2:test_is_odd_odds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:4:test_is_odd_additivity, public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:4:test_is_odd_additivity, public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: law test_is_odd_additivity: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:4:test_is_odd_additivity, public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:3:test_is_odd_evens is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:4:test_is_odd_additivity, public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:4:test_is_odd_additivity, public:3:test_is_odd_evens.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:5:test_is_odd_multiplicativity, public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:5:test_is_odd_multiplicativity, public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_is_odd_multiplicativity: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:5:test_is_odd_multiplicativity, public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:4:test_is_odd_additivity is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:5:test_is_odd_multiplicativity, public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:5:test_is_odd_multiplicativity, public:4:test_is_odd_additivity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:6:test_area_positive, public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:6:test_area_positive.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:6:test_area_positive, public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: law test_area_positive: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:6:test_area_positive, public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:5:test_is_odd_multiplicativity is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:6:test_area_positive, public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:6:test_area_positive, public:5:test_is_odd_multiplicativity.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:7:test_fib_inc, public:6:test_area_positive.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:7:test_fib_inc, public:6:test_area_positive.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:6:test_area_positive is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:7:test_fib_inc, public:6:test_area_positive.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:6:test_area_positive.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:7:test_fib_inc, public:6:test_area_positive.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:8:test_fib_geq_z, public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:8:test_fib_geq_z, public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_fib_inc: 10 relevant cases (10 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:8:test_fib_geq_z, public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: law test_fib_geq_z: 20 relevant cases (20 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:8:test_fib_geq_z, public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:7:test_fib_inc is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:8:test_fib_geq_z, public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:8:test_fib_geq_z, public:7:test_fib_inc.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:9:test_pow_pos, public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:9:test_pow_pos, public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_pow_pos: 30 relevant cases (30 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:9:test_pow_pos, public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:8:test_fib_geq_z is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:9:test_pow_pos, public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:9:test_pow_pos, public:8:test_fib_geq_z.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:10:test_pow_twice, public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:10:test_pow_twice, public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: law test_pow_twice: 30 relevant cases (30 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:10:test_pow_twice, public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:9:test_pow_pos is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:10:test_pow_twice, public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:10:test_pow_twice, public:9:test_pow_pos.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 2 tests running : public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Start test public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 2 tests running : public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:10:test_pow_twice is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 2 tests running : public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 2 tests running : public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 2 tests running: public:11:test_rev_lst, public:10:test_pow_twice.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: law test_rev_lst: 30 relevant cases (30 total)
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: 
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: Test public:11:test_rev_lst is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#02 I: End test public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Still 1 tests running : public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 1 tests running: public:11:test_rev_lst.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: 0 tests running: .
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Worker Aryans-MacBook-Air.local#01 has ended.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Worker Aryans-MacBook-Air.local#02 has ended.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Used 2 worker during test execution.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Run 6 tests with shard Aryans-MacBook-Air.local#02.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Run 6 tests with shard Aryans-MacBook-Air.local#01.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Check health of shard Aryans-MacBook-Air.local#02, 1 times.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Check health of shard Aryans-MacBook-Air.local#01, 9 times.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: ==============
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Summary:
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:11:test_rev_lst is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:10:test_pow_twice is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:9:test_pow_pos is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:8:test_fib_geq_z is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:7:test_fib_inc is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:6:test_area_positive is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:5:test_is_odd_multiplicativity is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:4:test_is_odd_additivity is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:3:test_is_odd_evens is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:2:test_is_odd_odds is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:1:test_rev_twice is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Test public:0:test_rev_tup is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Ran: 12 tests in: 0.61 seconds.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Cases: 12.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Tried: 12.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Errors: 0.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Failures: 0.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Skip: 0.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Todo: 0.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#00 I: Timeout: 0.

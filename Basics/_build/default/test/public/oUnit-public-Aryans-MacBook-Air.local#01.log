@@ -1,0 +1,24 @@
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:0:rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:0:rev_tup is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:0:rev_tup.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:2:area.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:2:area is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:2:area.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:4:fibonacci.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:4:fibonacci is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:4:fibonacci.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:6:log.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:6:log is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:6:log.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:8:is_prime.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:8:is_prime is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:8:is_prime.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:10:larger.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:10:larger is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:10:larger.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:12:combine.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:12:combine is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:12:combine.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Start test public:14:is_palindrome.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: Test public:14:is_palindrome is successful.
+2022-09-28T20:50:05+00:00 Aryans-MacBook-Air.local#01 I: End test public:14:is_palindrome.
