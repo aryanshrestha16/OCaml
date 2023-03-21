@@ -1,1 +1,0 @@
-This project is an implementation of lexer and parser. The lexer function converts a string into tokens and the parse function will consume these tokens and produce an abstract symbol tree(AST).
