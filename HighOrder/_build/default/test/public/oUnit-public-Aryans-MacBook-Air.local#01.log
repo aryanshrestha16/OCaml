@@ -1,0 +1,21 @@
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:0:is_elem.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:0:is_elem is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:0:is_elem.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:2:count_occ.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:2:count_occ is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:2:count_occ.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:4:assoc_list.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:4:assoc_list is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:4:assoc_list.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:5:ap.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:5:ap is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:5:ap.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:7:int_tree_insert_and_mem.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:7:int_tree_insert_and_mem is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:7:int_tree_insert_and_mem.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:9:tree_map_put_and_get.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:9:tree_map_put_and_get is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:9:tree_map_put_and_get.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Start test public:11:scopes.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: Test public:11:scopes is successful.
+2022-10-10T17:04:51+00:00 Aryans-MacBook-Air.local#01 I: End test public:11:scopes.
